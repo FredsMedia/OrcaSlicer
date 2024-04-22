@@ -1,0 +1,19 @@
+{
+    "filament_cost": [
+        "50"
+    ],
+    "filament_max_volumetric_speed": [
+        "60"
+    ],
+    "filament_settings_id": [
+        "Creality Hyper PLA Ender-3 V3 KE"
+    ],
+    "filament_type": [
+        "Hyper PLA White"
+    ],
+    "from": "User",
+    "inherits": "Creality Generic PLA High Speed @Ender-3V3-all",
+    "is_custom_defined": "0",
+    "name": "Creality Hyper PLA Ender-3 V3 KE",
+    "version": "2.0.2.0"
+}

@@ -1,0 +1,557 @@
+[warning]	2024-04-15 12:47:41.706211[Thread 0x00007ff8444b27c0]:get_network_function, can not find function bambu_network_get_profile_3mf
+[warning]	2024-04-15 12:47:42.581578[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:42.581658[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:42.581735[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:42.581763[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:42.581909[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:42.581938[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:42.581976[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:42.582000[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:42.582039[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:42.582063[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:42.582147[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:42.582173[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:42.582206[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:42.582229[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:42.584102[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:42.584185[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:42.598546[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:42.598624[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:42.598688[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:42.598720[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:42.598797[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:42.598828[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:42.598866[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:42.598894[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:42.598933[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:42.598959[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:42.599019[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:42.599047[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:42.599082[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:42.599107[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:42.599616[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:42.599661[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:42.599941[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:42.599981[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:42.600084[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:42.600119[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:42.600160[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:42.600188[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:42.600247[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:42.600339[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:42.600381[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:42.600408[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:42.600445[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:42.600471[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:42.600529[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:42.600556[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:42.600591[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:42.600630[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:42.600919[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:42.600955[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:42.601018[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:42.601048[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:42.601107[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:42.601138[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:42.601298[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:42.601337[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:42.601377[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:42.601403[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:42.601458[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:42.601484[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:42.601519[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:42.601543[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:42.601577[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:42.601615[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:42.601667[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:42.601692[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:42.601725[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:42.601749[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:42.601913[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:42.601946[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:42.602005[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:42.602033[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:42.602079[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:42.602106[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:42.602158[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:42.602185[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:42.617283[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:42.617346[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:42.617396[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:42.617463[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:42.617528[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:42.617554[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:42.617588[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:42.617611[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:42.617645[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:42.617668[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:42.617719[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:42.617743[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:42.617775[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:42.617797[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:42.618000[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:42.618031[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:42.618988[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:42.619029[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:42.619073[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:42.619099[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:42.619154[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:42.619179[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:42.619211[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:42.619234[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:42.619266[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:42.619288[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:42.619336[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:42.619360[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:42.619390[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:42.619411[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:42.619590[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:42.619634[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:42.619776[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:42.619805[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:42.619993[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:42.620030[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:42.620065[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:42.620088[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:42.620137[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:42.620160[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:42.620189[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:42.620211[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:42.620281[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:42.620306[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:42.620355[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:42.620378[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:42.620407[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:42.620428[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:42.620571[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:42.620600[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:42.620654[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:42.620679[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:42.620807[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:42.620836[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:42.621021[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:42.621051[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:42.621085[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:42.621108[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:42.621155[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:42.621178[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:42.621208[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:42.621229[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:42.621259[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:42.621289[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:42.621338[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:42.621360[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:42.621390[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:42.621411[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:42.621551[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:42.621580[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:42.621633[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:42.621658[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:42.621705[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:42.621730[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:42.621857[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:42.621886[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:42.622104[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:42.622134[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:42.622167[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:42.622190[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:42.622237[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:42.622260[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:42.622328[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:42.622352[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:42.622382[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:42.622403[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:42.622452[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:42.622475[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:42.622504[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:42.622525[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:42.622667[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:42.622697[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:42.622750[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:42.622775[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:42.622822[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:42.622846[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:42.622892[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:42.622917[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:42.623044[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:42.623074[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:42.623266[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:42.623296[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:42.623330[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:42.623353[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:42.623400[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:42.623423[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:42.623453[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:42.623475[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:42.623504[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:42.623525[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:42.623572[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:42.623593[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:42.623623[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:42.623644[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:42.623781[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:42.623810[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:42.623862[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:42.623887[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:42.623934[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:42.623959[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:42.624005[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:42.624029[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:42.624109[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:42.624135[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:42.624265[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:42.624294[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:42.624481[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:42.624511[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:42.624544[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:42.624567[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:42.624618[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:42.624641[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:42.624671[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:42.624692[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:42.624722[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:42.624743[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:42.624789[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:42.624811[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:42.624840[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:42.624861[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:42.624999[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:42.625029[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:42.625080[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:42.625106[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:42.625153[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:42.625178[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:42.625224[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:42.625248[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:42.625294[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:42.625318[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:42.625363[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:42.625387[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:42.625514[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:42.625543[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:42.932768[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:42.932843[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:42.956034[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:42.956115[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:42.956180[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:42.956212[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:42.956304[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:42.956337[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:42.956463[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:42.956498[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:42.956549[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:42.956577[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:42.956660[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:42.956689[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:42.956733[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:42.956764[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:42.957130[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:42.957170[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:42.957450[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:42.957489[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:42.957534[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:42.957563[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:42.957624[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:42.957653[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:42.957691[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:42.957717[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:42.957755[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:42.957780[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:42.957838[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:42.957865[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:42.957901[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:42.957927[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:42.958105[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:42.958142[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:42.958306[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:42.958342[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:42.958659[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:42.958696[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:42.958740[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:42.958768[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:42.958827[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:42.958855[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:42.958894[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:42.958921[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:42.958959[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:42.958986[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:42.959044[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:42.959073[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:42.959156[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:42.959185[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:42.959364[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:42.959400[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:42.959465[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:42.959496[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:42.959555[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:42.959585[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:42.959716[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:42.959757[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:42.959800[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:42.959828[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:42.959891[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:42.959920[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:42.959963[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:42.959990[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:42.960027[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:42.960054[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:42.960111[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:42.960139[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:42.960175[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:42.960201[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:42.960397[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:42.960434[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:42.960499[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:42.960531[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:42.960588[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:42.960618[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:42.960675[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:42.960706[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:42.960803[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:42.960837[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:42.960876[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:42.960903[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:42.960970[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:42.961000[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:42.961042[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:42.961069[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:42.961106[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:42.961174[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:42.961237[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:42.961265[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:42.961301[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:42.961327[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:42.961508[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:42.961545[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:42.961609[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:42.961640[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:42.961697[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:42.961727[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:42.961783[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:42.961813[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:42.961868[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:42.961904[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:42.962000[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:42.962034[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:42.962074[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:42.962101[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:42.962158[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:42.962186[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:42.962222[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:42.962248[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:42.962284[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:42.962311[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:42.962367[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:42.962395[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:42.962430[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:42.962456[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:42.962633[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:42.962669[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:42.962733[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:42.962764[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:42.962822[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:42.962852[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:42.962913[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:42.962942[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:42.962998[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:42.963028[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:42.963084[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:42.963149[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:42.963250[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:42.963284[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:42.963323[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:42.963350[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:42.963408[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:42.963436[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:42.963472[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:42.963498[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:42.963535[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:42.963561[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:42.963631[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:42.963657[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:42.963692[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:42.963718[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:42.963896[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:42.963932[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:42.963999[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:42.964029[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:42.964085[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:42.964115[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:42.964169[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:42.964198[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:42.964252[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:42.964280[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:42.964333[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:42.964362[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:42.964416[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:42.964445[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:42.979827[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:42.979902[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:42.979962[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:42.979994[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:42.980063[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:42.980092[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:42.980130[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:42.980157[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:42.980194[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:42.980220[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:42.980279[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:42.980363[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:42.980403[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:42.980429[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:42.989464[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:42.989510[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:42.989560[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:42.989587[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:42.989647[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:42.989673[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:42.989706[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:42.989730[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:42.989762[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:42.989785[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:42.989836[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:42.989860[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:42.989891[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:42.989914[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:43.013205[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:43.013279[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:43.013339[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:43.013368[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:43.014963[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:43.015043[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:43.015102[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:43.015132[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[error]	2024-04-15 12:47:43.028803[Thread 0x00007ff8444b27c0]:3dx drivers module loading error: dlopen(/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient, 0x0005): tried: '/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file), '/System/Volumes/Preboot/Cryptexes/OS/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file), '/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file), '/System/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file, not in dyld cache)
+[error]	2024-04-15 12:47:43.863085[Thread 0x00007ff8444b27c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-04-15 12:47:43.870107[Thread 0x00007ff8444b27c0]:File Metadata/plate_1.png not found from archive
+[warning]	2024-04-15 12:47:43.900392[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:43.900463[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:43.900517[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:43.900545[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:43.900640[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:43.900670[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:43.900704[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:43.900783[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:43.994644[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:43.994709[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:43.996139[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:43.996219[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:43.996397[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:43.996440[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:43.996602[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:43.996638[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:43.996714[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:43.996747[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:43.996819[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:43.996850[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:43.996919[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:43.996949[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:43.997120[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:43.997155[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:43.997909[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:43.997954[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:43.998047[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:43.998081[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:43.998174[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:43.998209[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:43.998285[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:43.998318[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:43.998392[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:43.998424[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:43.998496[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:43.998528[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:44.050273[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:44.050342[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:44.050391[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:44.050417[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:44.234322[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:44.234391[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:44.234439[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:44.234464[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:44.234608[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:44.234638[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:44.234672[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:44.234695[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:44.238120[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:44.238174[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:44.238226[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:44.238256[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:44.238347[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:44.238380[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:44.238419[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:44.238446[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:44.244642[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:44.244719[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:44.244777[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:44.244808[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:44.244979[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:44.245015[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:44.245056[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:44.245084[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:44.246508[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:44.246547[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:44.246588[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:44.246615[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:44.246691[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:44.246719[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:44.246753[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:44.246776[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[error]	2024-04-15 12:47:46.521698[Thread 0x00007ff8444b27c0]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2024-04-15 12:47:46.544524[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:46.544580[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:46.544627[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:46.544652[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[error]	2024-04-15 12:47:46.625350[Thread 0x00007ff8444b27c0]:connect_server error: network_agent=0x6000004f9480, ret=-2
+[warning]	2024-04-15 12:47:48.690001[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:48.690079[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:47:48.690132[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:47:48.690160[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[error]	2024-04-15 12:47:54.155452[Thread 0x0000700008a23000]:get_hms_info_version: body = , status = 0, error = curl:Timeout was reached:
+Failed to connect to e.bambulab.com port 443: Operation timed out
+[Error 28]
+[error]	2024-04-15 12:47:54.751356[Thread 0x0000700007ef6000]:[Orca Updater]: status=0, error=curl:Timeout was reached:
+Failed to connect to api.bambulab.com port 443: Operation timed out
+[Error 28], body=
+[error]	2024-04-15 12:48:02.259059[Thread 0x0000700007ef6000]:[Orca Updater]: status=0, error=curl:Timeout was reached:
+Failed to connect to api.bambulab.com port 443: Operation timed out
+[Error 28], body=
+[warning]	2024-04-15 12:48:06.245673[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:48:06.245767[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:48:06.245841[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:48:06.245877[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:48:15.616861[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:48:15.616941[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:48:15.616999[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:48:15.617030[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:48:39.232518[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:48:39.232611[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:48:39.232688[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:48:39.232722[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:48:41.743541[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:48:41.743617[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:48:41.743674[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:48:41.743704[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[error]	2024-04-15 12:48:53.288605[Thread 0x00007ff8444b27c0]:OctoPrint: Error getting version: curl:Timeout was reached:
+Connection timed out after 10000 milliseconds
+[Error 28], HTTP 0, body: ``
+[warning]	2024-04-15 12:48:56.459835[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:48:56.459919[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:48:56.459979[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:48:56.460011[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:48:58.297507[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:48:58.297602[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:48:58.297673[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:48:58.297711[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:49:12.474258[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:49:12.474340[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:49:12.474406[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:49:12.474764[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[error]	2024-04-15 12:49:26.773239[Thread 0x00007ff8444b27c0]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2024-04-15 12:49:26.800588[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:49:26.800659[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:49:26.800725[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:49:26.800756[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:49:26.861377[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:49:26.861459[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont
+[warning]	2024-04-15 12:49:26.861515[Thread 0x00007ff8444b27c0]:Can't find HarmonyOS Sans SC font
+[warning]	2024-04-15 12:49:26.861543[Thread 0x00007ff8444b27c0]:Use system font instead: .AppleSystemUIFont

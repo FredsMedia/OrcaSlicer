@@ -1,0 +1,10 @@
+{
+    "before_layer_change_gcode": ";BEFORE_LAYER_CHANGE\n;[layer_z]\nG92 E0\nTIMELAPSE_TAKE_FRAME\n",
+    "from": "User",
+    "inherits": "Creality Ender-3 V3 KE 0.4 nozzle",
+    "is_custom_defined": "0",
+    "name": "Creality Ender-3 V3 KE",
+    "print_host": "https://shared-SPI6B096TED1C3EQOEKOTP9BEA460MFN.octoeverywhere.com",
+    "printer_settings_id": "Creality Ender-3 V3 KE",
+    "version": "2.0.2.0"
+}
