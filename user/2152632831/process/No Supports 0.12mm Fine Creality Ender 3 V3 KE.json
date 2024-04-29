@@ -2,6 +2,8 @@
     "brim_type": "auto_brim",
     "from": "User",
     "inherits": "0.12mm Fine @Creality Ender3V3KE",
+    "ironing_speed": "15",
+    "ironing_type": "topmost",
     "is_custom_defined": "0",
     "name": "No Supports 0.12mm Fine Creality Ender 3 V3 KE",
     "print_settings_id": "No Supports 0.12mm Fine Creality Ender 3 V3 KE",

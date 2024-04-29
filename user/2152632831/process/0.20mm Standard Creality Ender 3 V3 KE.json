@@ -4,6 +4,8 @@
     "enable_support": "1",
     "from": "User",
     "inherits": "0.20mm Standard @Creality Ender3V3KE",
+    "ironing_speed": "20",
+    "ironing_type": "topmost",
     "is_custom_defined": "0",
     "name": "0.20mm Standard Creality Ender 3 V3 KE",
     "print_settings_id": "0.20mm Standard Creality Ender 3 V3 KE",

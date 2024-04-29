@@ -4,6 +4,8 @@
     "inherits": "0.24mm Draft @Creality Ender3V3KE",
     "inner_wall_speed": "500",
     "internal_solid_infill_speed": "500",
+    "ironing_speed": "15",
+    "ironing_type": "topmost",
     "is_custom_defined": "0",
     "name": "No Supports 0.24mm Draft Creality Ender 3 V3 KE",
     "outer_wall_speed": "300",

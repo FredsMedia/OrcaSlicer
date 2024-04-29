@@ -11,6 +11,9 @@
     "filament_type": [
         "Hyper PLA White"
     ],
+    "filament_vendor": [
+        "Creality"
+    ],
     "from": "User",
     "inherits": "Creality Generic PLA High Speed @Ender-3V3-all",
     "is_custom_defined": "0",

@@ -2,7 +2,6 @@
     "brim_type": "auto_brim",
     "from": "User",
     "inherits": "0.16mm Optimal @Creality Ender3V3KE",
-    "is_custom_defined": "0",
     "layer_height": "0.15",
     "name": "No Supports 0.15mm Optimal Creality Ender 3 V3 KE",
     "print_settings_id": "No Supports 0.15mm Optimal Creality Ender 3 V3 KE",

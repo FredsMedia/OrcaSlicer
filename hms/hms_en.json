@@ -1075,6 +1075,10 @@
     "device_hms": {
         "en": [
             {
+                "ecode": "03001A0000020002",
+                "intro": "The nozzle is clogged with filament."
+            },
+            {
                 "ecode": "030002000001000B",
                 "intro": "The nozzle temperature is abnormal. Temperature control system may have an issue."
             },
@@ -1325,10 +1329,6 @@
             {
                 "ecode": "0300110000020002",
                 "intro": "The resonance frequency of the Y axis differs greatly from the last calibration. Please clean the carbon rod and rerun the machine calibration afterward."
-            },
-            {
-                "ecode": "03001A0000020002",
-                "intro": "The nozzle is clogged with filament."
             },
             {
                 "ecode": "12FF200000020007",
@@ -4143,7 +4143,7 @@
                 "intro": "The nozzle temperature is abnormal; the sensor may have an open circuit."
             }
         ],
-        "ver": 202404151030
+        "ver": 202404221830
     },
-    "version": "202404151030"
+    "version": "202404221830"
 }
